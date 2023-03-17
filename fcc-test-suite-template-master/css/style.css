@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:linear-gradient( rgba(78, 151, 206, 0.5) 100%
+    , rgba(0, 0, 0, 0.5)100%),url("https://assets.weforum.org/article/image/responsive_big_webp_LRQb39ZdkYto2vRkr0IpUGi9-5Yvx_plqhjGDAzBxYo.webp");  
+text-align: center;
+}
+.main{
+    text-align: center; 
+}
